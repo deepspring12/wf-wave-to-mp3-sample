@@ -1,0 +1,9 @@
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\bin\Debug\WaveToMp3Converter.exe.config
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\bin\Debug\WaveToMp3Converter.exe
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\bin\Debug\WaveToMp3Converter.pdb
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Debug\WaveToMp3ConverterWF.csprojResolveAssemblyReference.cache
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Debug\WaveToMp3Converter.Properties.Resources.resources
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Debug\WaveToMp3ConverterWF.csproj.GenerateResource.Cache
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Debug\WaveToMp3Converter.exe
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Debug\WaveToMp3Converter.pdb
