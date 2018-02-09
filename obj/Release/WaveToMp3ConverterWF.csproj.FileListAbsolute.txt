@@ -10,3 +10,4 @@ C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\o
 C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Release\WaveToMp3Converter.application
 C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Release\WaveToMp3Converter.exe
 C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Release\WaveToMp3Converter.pdb
+C:\Users\deepspring\Documents\Visual Studio 2017\Projects\WaveToMp3ConverterWF\obj\Release\WaveToMp3ConverterWF.csprojResolveAssemblyReference.cache
